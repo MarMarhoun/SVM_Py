@@ -1,0 +1,20 @@
+\babel@toc {french}{}
+\beamer@sectionintoc {1}{Introduction}{3}{0}{1}
+\beamer@subsectionintoc {1}{1}{Domaine d'application}{4}{0}{1}
+\beamer@sectionintoc {2}{ SVM}{6}{0}{2}
+\beamer@subsectionintoc {2}{1}{Classification}{7}{0}{2}
+\beamer@subsectionintoc {2}{2}{R\IeC {\'e}gression}{8}{0}{2}
+\beamer@sectionintoc {3}{S\IeC {\'e}paration lin\IeC {\'e}aire par SVM}{9}{0}{3}
+\beamer@subsectionintoc {3}{1}{Notion de base }{9}{0}{3}
+\beamer@subsectionintoc {3}{2}{Cas lin\IeC {\'e}airement s\IeC {\'e}parable }{10}{0}{3}
+\beamer@sectionintoc {4}{S\IeC {\'e}paration non lin\IeC {\'e}aire par SVM}{24}{0}{4}
+\beamer@subsectionintoc {4}{1}{Cas non lin\IeC {\'e}airement s\IeC {\'e}parable }{24}{0}{4}
+\beamer@subsectionintoc {4}{2}{Les noyaux}{28}{0}{4}
+\beamer@subsectionintoc {4}{3}{Fonctions noyau pour des vecteurs}{33}{0}{4}
+\beamer@sectionintoc {5}{S\IeC {\'e}paration dans le cas SVR}{34}{0}{5}
+\beamer@subsectionintoc {5}{1}{Le cas lin\IeC {\'e}aire}{35}{0}{5}
+\beamer@subsectionintoc {5}{2}{Le cas non lin\IeC {\'e}aire}{36}{0}{5}
+\beamer@sectionintoc {6}{Simulation}{37}{0}{6}
+\beamer@subsectionintoc {6}{1}{Biblioth\IeC {\`e}ques}{37}{0}{6}
+\beamer@subsectionintoc {6}{2}{Dataset}{38}{0}{6}
+\beamer@sectionintoc {7}{Conclusion}{40}{0}{7}

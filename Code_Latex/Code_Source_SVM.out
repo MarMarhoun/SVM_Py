@@ -1,0 +1,19 @@
+\BOOKMARK [2][]{Outline0.1}{Introduction}{}% 1
+\BOOKMARK [3][]{Outline0.1.1.4}{Domaine d'application}{Outline0.1}% 2
+\BOOKMARK [2][]{Outline0.2}{ SVM}{}% 3
+\BOOKMARK [3][]{Outline0.2.1.7}{Classification}{Outline0.2}% 4
+\BOOKMARK [3][]{Outline0.2.2.8}{R\351gression}{Outline0.2}% 5
+\BOOKMARK [2][]{Outline0.3}{S\351paration lin\351aire par SVM}{}% 6
+\BOOKMARK [3][]{Outline0.3.1.9}{Notion de base }{Outline0.3}% 7
+\BOOKMARK [3][]{Outline0.3.2.10}{Cas lin\351airement s\351parable }{Outline0.3}% 8
+\BOOKMARK [2][]{Outline0.4}{S\351paration non lin\351aire par SVM}{}% 9
+\BOOKMARK [3][]{Outline0.4.1.24}{Cas non lin\351airement s\351parable }{Outline0.4}% 10
+\BOOKMARK [3][]{Outline0.4.2.28}{Les noyaux}{Outline0.4}% 11
+\BOOKMARK [3][]{Outline0.4.3.33}{Fonctions noyau pour des vecteurs}{Outline0.4}% 12
+\BOOKMARK [2][]{Outline0.5}{S\351paration dans le cas SVR}{}% 13
+\BOOKMARK [3][]{Outline0.5.1.35}{Le cas lin\351aire}{Outline0.5}% 14
+\BOOKMARK [3][]{Outline0.5.2.36}{Le cas non lin\351aire}{Outline0.5}% 15
+\BOOKMARK [2][]{Outline0.6}{Simulation}{}% 16
+\BOOKMARK [3][]{Outline0.6.1.37}{Biblioth\350ques}{Outline0.6}% 17
+\BOOKMARK [3][]{Outline0.6.2.38}{Dataset}{Outline0.6}% 18
+\BOOKMARK [2][]{Outline0.7}{Conclusion}{}% 19
